@@ -1,0 +1,94 @@
+.table1{
+    width: 100%;
+    height: 50px;
+    border-bottom: 1px #660066 solid;
+    overflow: auto;
+    border-radius: 5px;
+}
+
+.tdlogo{
+    text-align: center;
+    width: 30%;
+}
+
+.logo{
+    width: 300px;
+    height: 50px;
+}
+
+.frase{
+    font-size: 9pt;
+    font-family: verdana;
+    color: black;
+    font-style: italic;
+    text-align: center;
+    width: 40%;
+}
+
+.input{
+    width: 300px;
+    color: black;
+    border-radius: 5px;
+    border-color: none;
+}
+
+.tdinput{
+    text-align: right;
+}
+
+.tabela2{
+    width: 100%;
+    height: 30px;
+    background: #006666;
+    border-radius: 5px;
+}
+
+.tdtabela2{
+    font-family: arial;
+    font-size: 9pt;
+    text-align: left;
+    color: white;
+    width: 10%;
+}
+
+.tabela3{
+    width: 100%;
+    height: 400px;
+    background-color: #e1e1d0;
+}
+
+.tabela4{
+    width: 100%;
+    height: 500px;
+    overflow: auto;
+    background-color: white;
+}
+
+.tdfacil{
+    width: 25%;
+    height: 250px;
+    border-radius: 10px;
+}
+
+.imgfacil{
+    width: 80%;
+    height: 80%;
+}
+
+.textofacil{
+    font-family: arial;
+    color: blue;
+    font-size: 12pt;
+    text-align: center;
+}
+
+.paracadaocasiao{
+    font-family: times new roman;
+    color: #e6e600;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}

@@ -1,0 +1,36 @@
+.priimgfal{
+    width: 100%;
+    height: 200PX;
+}
+
+.textoexplic{
+    font-family: arial;
+    font-size: 15pt;
+    text-align: center;
+    color: #009999;
+}
+
+.inputs{
+    width: 50%;
+    height: 40px;
+    color: blue;
+    border-radius: 10px; 
+}
+
+.alinharinputs{
+    width: 100%;
+    text-align: center;
+}
+
+.areatexto{
+    border-radius: 10px; 
+}
+
+.enviar{
+    width: 150px;
+    height: 40px;
+    font-size: 20pt;
+    color: white;
+    background-color: #008fb3;
+    border-radius: 5px;
+}
